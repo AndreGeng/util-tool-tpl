@@ -1,5 +1,5 @@
 {
-  "name": "util-tool-tpl",
+  "name": "gz-util-tool-tpl",
   "version": "1.0.7",
   "description": "simple template engine based on es6 string literal",
   "main": "./dist/index.js",
