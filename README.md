@@ -6,6 +6,7 @@ usage:
   put js code within '<% [js code] %>'.
   put code within '<%= [js code] %>' if something need to show on page.
 
+  you can access passed in data through 'it', as shown below:
   var template = `
     <div>
       <% if(it) { %>
